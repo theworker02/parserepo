@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/parserepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Parse color repo values and contrast-safe presentation helpers.",
+  "bin": {
+    "parserepo": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/parserepo.git"
+  },
+  "homepage": "https://theworker02.github.io/parserepo/",
+  "keywords": [
+    "parse",
+    "repo",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
